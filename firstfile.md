@@ -1,0 +1,1 @@
+Here is a file with some changes to be the first commit in master
